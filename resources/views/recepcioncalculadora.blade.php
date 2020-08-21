@@ -21,6 +21,8 @@
       
       <h3><b>El resultado es:</b> <span class="text-success">{{ $r }}</span> </h3>
       
+      <img src="https://i.pinimg.com/originals/3a/83/70/3a83701ba14ccc70f376b42465351f43.gif" width="400" height="400"  />
+      
 
       
     
